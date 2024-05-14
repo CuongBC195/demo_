@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Chí Cường
+          reactjs
         </a>
       </header>
     </div>
